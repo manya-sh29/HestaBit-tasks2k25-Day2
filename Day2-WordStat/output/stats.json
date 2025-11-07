@@ -1,0 +1,48 @@
+{
+  "totalWords": 122836,
+  "uniqueWords": 38,
+  "longestWord": "reprehenderit",
+  "shortestWord": "dolor",
+  "topWords": [
+    {
+      "word": "veniam",
+      "count": 3341
+    },
+    {
+      "word": "irure",
+      "count": 3322
+    },
+    {
+      "word": "pariatur",
+      "count": 3313
+    },
+    {
+      "word": "dolore",
+      "count": 3308
+    },
+    {
+      "word": "exercitation",
+      "count": 3308
+    },
+    {
+      "word": "laborum",
+      "count": 3300
+    },
+    {
+      "word": "velit",
+      "count": 3295
+    },
+    {
+      "word": "adipisicing",
+      "count": 3283
+    },
+    {
+      "word": "proident",
+      "count": 3282
+    },
+    {
+      "word": "nulla",
+      "count": 3281
+    }
+  ]
+}

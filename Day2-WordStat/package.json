@@ -1,0 +1,17 @@
+{
+  "name": "day2-wordstat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generateCorpus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "lorem-ipsum": "^2.0.8",
+    "yargs": "^18.0.0"
+  }
+}
